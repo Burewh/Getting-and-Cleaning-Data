@@ -18,6 +18,7 @@ Activity_Level              Factor with 6 levels
            4. SITTING
            5. STANDING
            6 LAYING
+
 tBodyAcc.mean...X                       Numeric 
 tBodyAcc.mean...Y                       Numeric  
 tBodyAcc.mean...Z                       Numeric
